@@ -1,0 +1,278 @@
+[
+   
+    {"id": 1,
+    "name": "Courtois",
+    "position": "Goalkeeper",
+    "number": 1,
+    "img": "https://www.realmadrid.com/img/vertical_220px/courtois_380x501_20210826062816.jpg",
+    "yeallowCard": 0,
+    "redCard": 0,
+    "goals": 0,
+    "games": 34
+    },
+
+    {"id": 2,
+    "name": "Vini",
+    "position": "Forward",
+    "number": 20,
+    "img": "https://www.realmadrid.com/img/vertical_220px/vinijr_380x501_20210826062815.jpg",
+    "yeallowCard": 2,
+    "redCard": 0,
+    "games": 34,
+    "goals": 14
+    },
+
+    {"id": 3,
+    "name": "Rodrygo",
+    "position": "Forward",
+    "number": 21,
+    "img": "https://www.realmadrid.com/img/vertical_220px/rodrygo_380x501_20210826062818.jpg",
+    "yeallowCard": 1,
+    "redCard": 0,
+    "games": 24,
+    "goals": 5
+    },
+
+    {"id": 4,
+    "name": "Alaba",
+    "position": "Defender",
+    "number": 4,
+    "img": "https://www.realmadrid.com/img/vertical_220px/alaba_380x501_20210826062826.jpg",
+    "yeallowCard": 4,
+    "redCard": 1,
+    "games": 34,
+    "goals": 2
+    },
+
+    {"id": 5,
+    "name": "Carvajal",
+    "position": "Defender",
+    "number": 2,
+    "img": "https://www.realmadrid.com/img/vertical_220px/carvajal_380x501_20210826062807.jpg",
+    "yeallowCard": 8,
+    "redCard": 4,
+    "games": 34,
+    "goals": 3
+    },
+
+    {"id": 6,
+    "name": "Mendy",
+    "position": "Defender",
+    "number": 23,
+    "img": "https://www.realmadrid.com/img/vertical_220px/mendy_he19491_380x501_20210910082744.jpg",
+    "yeallowCard": 7,
+    "redCard": 1,
+    "games": 34,
+    "goals": 1
+    },
+
+    {"id": 7,
+    "name": "Nacho",
+    "position": "Defender",
+    "number": 6,
+    "img": "https://www.realmadrid.com/img/vertical_220px/nacho_380x501_20210826062808.jpg",
+    "yeallowCard": 5,
+    "redCard": 5,
+    "games": 34,
+    "goals": 4
+     },
+
+    {"id": 8,
+    "name": "Vazques",
+    "position": "Defender",
+    "number": 17,
+    "img": "https://www.realmadrid.com/img/vertical_220px/lucasv_380x501_20210826062813.jpg",
+    "yeallowCard": 3,
+    "redCard": 10,
+    "games": 17,
+    "goals": 3
+    }, 
+
+    {"id": 9,
+    "name": "Benzema",
+    "position": "Forward",
+    "number": 9,
+    "img": "https://www.realmadrid.com/img/vertical_220px/benzema_380x501_20210826062812.jpg",
+    "yeallowCard": 2,
+    "redCard": 1,
+    "games": 34,
+    "goals": 30
+    }, 
+
+    {"id": 10,
+    "name": "Lunin",
+    "position": "Goalkeeper",
+    "number": 13,
+    "img": "https://www.realmadrid.com/img/vertical_220px/lunin_380x501_20210826062826.jpg",
+    "yeallowCard": 0,
+    "redCard": 0,
+    "goals": 0,
+    "games": 0
+    }, 
+
+    {"id": 11,
+    "name": "Miltao",
+    "position": "Defender",
+    "number": 3,
+    "img": "https://www.realmadrid.com/img/vertical_220px/militao_380x501_20210826062825.jpg",
+    "yeallowCard": 6,
+    "redCard": 3,
+    "games": 34,
+    "goals": 2
+    }, 
+
+    {"id": 12,
+    "name": "Marcelo",
+    "position": "Defender",
+    "number": 12,
+    "img": "https://www.realmadrid.com/img/vertical_220px/marcelo_380x501_20210826062808.jpg",
+    "yeallowCard": 2,
+    "redCard": 1,
+    "games": 3,
+    "goals": 1
+    }, 
+
+    {"id": 13,
+    "name": "Vallejo",
+    "position": "Defender",
+    "number": 5,
+    "img": "https://www.realmadrid.com/img/vertical_220px/vallejo_he19382_380x501_20210910082741.jpg",
+    "yeallowCard": 0,
+    "redCard": 0,
+    "games": 0,
+    "goals": 0
+    }, 
+
+    {"id": 14,
+    "name": "Kroos",
+    "position": "Midfielder",
+    "number": 8,
+    "img": "https://www.realmadrid.com/img/vertical_220px/kroos_380x501_20210826062809.jpg",
+    "yeallowCard": 4,
+    "redCard": 1,
+    "games": 34,
+    "goals": 7
+    }, 
+
+    {"id": 15,
+    "name": "Modric",
+    "position": "Midfielder",
+    "number": 10,
+    "img": "https://www.realmadrid.com/img/vertical_220px/modric_380x501_20210826062810.jpg",
+    "yeallowCard": 3,
+    "redCard": 0,
+    "games": 34,
+    "goals": 6
+    }, 
+
+    {"id": 16,
+    "name": "Casemiro",
+    "position": "Midfielder",
+    "number": 14,
+    "img": "https://www.realmadrid.com/img/vertical_220px/casemiro_380x501_20210826062810.jpg",
+    "yeallowCard": 7,
+    "redCard": 5,
+    "games": 34,
+    "goals": 1
+    }, 
+
+    {"id": 17,
+    "name": "Valverde",
+    "position": "Midfielder",
+    "number": 15,
+    "img": "https://www.realmadrid.com/img/vertical_220px/valverde_380x501_20210826062806.jpg",
+    "yeallowCard": 9,
+    "redCard": 0,
+    "games": 19,
+    "goals": 4
+    }, 
+
+    {"id": 18,
+    "name": "Ceballos",
+    "position": "Midfielder",
+    "number": 19,
+    "img": "https://www.realmadrid.com/img/vertical_220px/ceballos_he19343_380x501_20210910082743.jpg",
+    "yeallowCard": 0,
+    "redCard": 0,
+    "games": 0,
+    "goals": 0
+    }, 
+
+    {"id": 19,
+    "name": "Isco",
+    "position": "Midfielder",
+    "number": 22,
+    "img": "https://www.realmadrid.com/img/vertical_220px/isco_380x501_20210826062811.jpg",
+    "yeallowCard": 0,
+    "redCard": 2,
+    "games": 12,
+    "goals": 2
+    }, 
+
+    {"id": 20,
+    "name": "Camavinga",
+    "position": "Midfielder",
+    "number": 25,
+    "img": "https://www.realmadrid.com/img/vertical_220px/camavinga_he19458_380x501_20210910082744.jpg",
+    "yeallowCard": 1,
+    "redCard": 0,
+    "games": 14,
+    "goals": 3
+    }, 
+
+    {"id": 21,
+    "name": "Hazard",
+    "position": "Forward",
+    "number": 7,
+    "img": "https://www.realmadrid.com/img/vertical_220px/hazard_380x501_20210826062817.jpg",
+    "yeallowCard": 1,
+    "redCard": 1,
+    "games": 10,
+    "goals": 1
+    }, 
+
+    {"id": 22,
+    "name": "Asensio",
+    "position": "Forward",
+    "number": 11,
+    "img": "https://www.realmadrid.com/img/vertical_220px/asensio_he19417_380x501_20210910082737.jpg",
+    "yeallowCard": 4,
+    "redCard": 3,
+    "games": 20,
+    "goals": 9
+    }, 
+
+    {"id": 23,
+    "name": "Mariano",
+    "position": "Forward",
+    "number": 24,
+    "img": "https://www.realmadrid.com/img/vertical_220px/mariano_380x501_20210826062850.jpg",
+    "yeallowCard": 3,
+    "redCard": 0,
+    "games": 1,
+    "goals": 0
+    }, 
+
+    {"id": 24,
+    "name": "Bale",
+    "position": "Forward",
+    "number": 18,
+    "img": "https://www.realmadrid.com/img/vertical_220px/bale_380x501_20210826062812.jpg",
+    "yeallowCard": 1,
+    "redCard": 0,
+    "games": 3,
+    "goals": 1
+    }, 
+
+    {"id": 25,
+    "name": "Jovic",
+    "position": "Forward",
+    "number": 16,
+    "img": "https://www.realmadrid.com/img/vertical_220px/jovic_380x501_20210826062816.jpg",
+    "yeallowCard": 0,
+    "redCard": 0,
+    "games": 2,
+    "goals": 0
+    }
+    
+]
