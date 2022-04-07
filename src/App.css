@@ -1,38 +1,70 @@
-.App {
+body {
+  background-color: rgb(64, 64, 144);
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+}
+
+.wrapperInfo,.chosenWrapper {
+  border: 2px solid black;
+  border-radius: 15px;
+  width: min-content;
   text-align: center;
+  margin: 0 auto;
+  margin-top: 1rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.chosenWrapper {
+  background-color: rgb(72, 72, 172);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.wrapperHeader {
+ text-align: center;
+ background-color: rgb(72, 72, 172);
+ margin-top: -1.1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.mainHeader {
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1522778034537-20a2486be803?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  height: 50rem;
+}
+
+.colorSmallHeader,.whiteSeason {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.PlayerInfoBtn,.startPageBtn {
+  margin: 1rem;
+  padding: 0.7rem;
+  border-radius: 5rem;
+  background-color: black;
+  color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.startPageBtn {
+  margin-top: 20rem;
 }
+
+.backBtn {
+  width: 30px;
+  height: 30px;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.deletePlayer {
+  width: 30px;
+  height: 30px;
+}
+
+.headerPlayerList,.chosenPlayer{
+  text-align: center;
+  border-bottom: 2px solid white;
+  color: white;
+}
+
